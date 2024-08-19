@@ -4,7 +4,9 @@
 ![muniloperBanner](images/muniloperBanner.jpeg)
 
 # 💫 About Me:
-### Ingeniero de Telecomunicaciones con una sólida experiencia en resolución de problemas y atención al cliente adquirida durante mi tiempo como técnico de reparaciones en Nintendo. <br>Decidí dar un giro a mi carrera y sumergirme en el apasionante mundo de la programación. Combino mis conocimientos técnicos con mi habilidad para aprender rápidamente nuevas tecnologías para crear soluciones eficientes y de alta calidad.<br><br>Actualmente, estoy en constante aprendizaje de diversas tecnologías y lenguajes de programación, con el objetivo de expandir mis habilidades y convertirme en un profesional versátil del sector.<br> Mi intención es contribuir a proyectos innovadores y aportar valor a los equipos de desarrollo.
+### Ingeniero de Telecomunicaciones con una sólida experiencia en resolución de problemas y atención al cliente adquirida durante mi tiempo como técnico de reparaciones en Nintendo.
+### Decidí dar un giro a mi carrera y sumergirme en el apasionante mundo de la programación. Combino mis conocimientos técnicos con mi habilidad para aprender rápidamente nuevas tecnologías para crear soluciones eficientes y de alta calidad.
+### Actualmente, estoy en constante aprendizaje de diversas tecnologías y lenguajes de programación, con el objetivo de expandir mis habilidades y convertirme en un profesional versátil del sector. Mi intención es contribuir a proyectos innovadores y aportar valor a los equipos de desarrollo.
 
 
 ## 🌐 Socials:
