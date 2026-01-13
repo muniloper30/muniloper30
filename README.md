@@ -1,12 +1,12 @@
 # ![EmoteMuni](images/EmoteMuniPX.png) Hola, Bienvenido al GitHub de Víctor Lorencio 👋
 
-### Creación y maquetación de páginas web | Desarrollo Front-end | Gestión y creación de contenidos en redes sociales | Html y Css | JavaScript | React |Reparación de equipos electrónicos.
+### Desarrollador Web | Frontend Developer | Backend Developer | Full Stack | React, Angular, Astro | APIs REST
 ![muniloperBanner](images/muniloperBanner.jpeg)
 
 # 💫 About Me:
-#### Ingeniero de Telecomunicaciones con una sólida experiencia en resolución de problemas y atención al cliente adquirida durante mi tiempo como técnico de reparaciones en Nintendo.
-#### Decidí dar un giro a mi carrera y sumergirme en el apasionante mundo de la programación. Combino mis conocimientos técnicos con mi habilidad para aprender rápidamente nuevas tecnologías para crear soluciones eficientes y de alta calidad.
-#### Actualmente, estoy en constante aprendizaje de diversas tecnologías y lenguajes de programación, con el objetivo de expandir mis habilidades y convertirme en un profesional versátil del sector. Mi intención es contribuir a proyectos innovadores y aportar valor a los equipos de desarrollo.
+#### ¡Hola! Soy Víctor, desarrollador FullStack con experiencia creando aplicaciones web orientadas a rendimiento, mantenibilidad y una buena experiencia de usuario.
+#### He trabajado desarrollando interfaces con React, Angular y TypeScript, integrando APIs REST para la gestión de datos y flujos de autenticación, y colaborando en equipo con metodología Agile/Scrum.
+#### Me encanta el Frontend pero también estoy cómodo en la parte backend, trabajando con bases de datos SQL (PostgreSQL/MySQL) y entornos de desarrollo con Docker, siempre con foco en buenas prácticas y control de versiones con Git/GitHub.
 
 
 ## 🌐 Socials:
