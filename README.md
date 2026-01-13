@@ -1,8 +1,7 @@
 # ![EmoteMuni](images/EmoteMuniPX.png) Hola, Bienvenido al GitHub de Víctor Lorencio 👋
 
 ### Desarrollador Web | Frontend Developer | Backend Developer | Full Stack | React, Angular, Astro | APIs REST
-![muniloperBanner](<img width="1584" height="500" alt="bannerLinkeding (3)" src="https://github.com/user-attachments/assets/572c430b-56e3-4032-813d-8301c3cfff56" />
-)
+![muniloperBanner](images/banner-linkedln.png)
 
 # 💫 About Me:
 #### ¡Hola! Soy Víctor, desarrollador FullStack con experiencia creando aplicaciones web orientadas a rendimiento, mantenibilidad y una buena experiencia de usuario.
